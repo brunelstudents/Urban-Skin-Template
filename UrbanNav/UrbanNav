@@ -1,0 +1,33 @@
+<div class="container">
+<nav id="mainnav">
+               <ul class="msl_navbar">
+                <li class="representation">
+                    <a href="/representation/" class=" msl-itemhassubnav"><span class="nav-text" style="color: #fff;
+">Representation</span></a>
+                    <MSL:Navigation NavigationName="representation"/>
+                </li>
+                <li class="support">
+                    <a href="/advice/" class=" msl-itemhassubnav">
+                        <span class="nav-text" style="color: #fff;">Advice</span>
+                    </a>
+                    <MSL:Navigation NavigationName="support"/>
+                </li>
+                <li class="activities">
+                    <a href="/activities/" class=" msl-itemhassubnav"><span class="nav-text" style="color: #fff;">Activities</span></a>
+                    <MSL:Navigation NavigationName="activities"/>
+                </li>
+                <li class="social">
+                    <a href="/social/" class=" msl-itemhassubnav"><span class="nav-text" style="color: #fff;">Social</span></a>
+                    <MSL:Navigation NavigationName="social"/>
+                </li>
+                <li class="shop">
+                    <a href="/shop" class=" msl-itemhassubnav"><span class="nav-text" style="color: #fff;">Shop</span></a>
+                    <MSL:Navigation NavigationName="shop"/>
+                </li>
+                <li class="about">
+                    <a href="/about/" class=" msl-itemhassubnav"><span class="nav-text" style="color: #fff;">About</span></a>
+                    <MSL:Navigation NavigationName="about"/>
+                </li>
+               </ul>
+               <a href="#top" id="return">Return to content</a>
+           </nav></div>

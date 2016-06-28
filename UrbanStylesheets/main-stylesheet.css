@@ -1,0 +1,1449 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+
+body {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+background: #fff;
+}
+
+
+
+.catalogue_productlist {
+
+padding-top: 7%;
+
+}
+
+.product_box_product_options h2 {
+padding: 0px;
+}
+
+.product_box {
+border: none;
+}
+
+select {
+width: 100px;
+height: 50px;
+background: #385072;
+    color: #fff;
+}
+
+.product_box h2 {
+background: none;
+border: none;
+}
+
+.product_images {
+background: none;
+}
+
+
+
+.nus-header {
+    float: left;
+    /* height: 913px; */
+height: 100%;
+padding: 20px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 100%;
+background: url(http://brunelstudents.com/stylesheet/UrbanDesign/nus-background.png);
+background-size: cover;
+}
+
+.nus-header h1 {
+
+    font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+font-size: 4em;
+color: #fff;
+text-align: center;
+
+}
+
+.nus-header h2 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 30px;
+padding: 10px;
+color: #fff;
+text-align: left;
+
+}
+
+.nus-header a {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    padding: 10px;
+    color: #fff;
+text-decoration: underline;
+}
+
+.nus-header a:hover {
+text-decoration: none;
+}
+
+.homepagenews p {
+display: none;
+}
+
+
+img{
+   max-width: 100%;
+    display: block;
+    height: auto;
+
+}
+
+a:hover {
+cursor: pointer;
+}
+
+input.button {
+background: #000;
+padding: 10px;
+}
+
+.ad-position {
+
+margin-top: -1000px;
+float: right;
+}
+
+.breadcrumb, .msl-breadcrumb {
+float: left;
+background: none;
+padding: 20px;
+font-style: italic;
+font-size: 11px;
+}
+
+
+
+.account-button {
+background: url();
+}
+
+.nav-text {
+  font-size: 2.0vh;;
+
+}
+
+. msl-itemhassubnav {
+width: 100%;
+}
+
+
+
+.main-header {
+padding-top: 30px;
+}
+
+.social-links {
+}
+
+.social-links li a {
+display: inline;
+}
+
+::selection { background: #FFD100;color: #385072; }
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+.header {
+    float: left;
+    height: 100%;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-color: #345073;
+}
+
+.campaign-section {
+ float: left;
+    height: 258px;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-color: #345073;
+}
+
+.content {
+    float: left;
+    height: 100%;
+padding: 30px;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-color: #fff;
+}
+
+.content ul, .content li {
+    list-style-type: disc;
+display: list-item;
+
+
+}
+
+.content h1 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+  font-size: 30px;
+padding: 10px;
+color: #345073;
+padding-bottom: 0px;
+}
+
+.content h5 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 12px;
+color: #345073;
+margin-top:65px;
+}
+
+
+
+
+
+.slick-track {
+top: -38px;
+}
+
+.news_all {
+padding-top: 10px;
+}
+
+.news_list .news_image {
+display: block;
+}
+
+.news_all a {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+}
+
+.msl-recentblogposttitle, .msl-recentblogpostdate, .msl-recentblogpost {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+
+}
+
+.msl_event_name a {
+padding-top: 20px;
+}
+
+.moreevents {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+}
+
+.newsfilter li a {
+padding-top: 20px;
+color: #c3c3c3
+}
+
+.newsfilter, .newsfilter ul, .newsfilter li {
+display: inline;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+text-align: center;
+font-size: 11px;
+
+}
+
+.homepagenews img {
+max-width: 100%;
+min-width: 50px;
+display:block;
+height: auto;
+}
+
+.homepagenews p, .msl_news_org {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 13px;
+font-style: italic;
+text-align: left;
+color: #345073;
+
+}
+
+.homepagenews p {
+text-align: right;
+}
+
+.news_item_inner {
+
+}
+
+.msl_news_org {
+padding-top: 20px;
+display: none;
+}
+
+.homepagenews h5, .homepagenews h5 a{
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 20px;
+text-align: left;
+color: #345073;
+padding-top: 5px;
+}
+
+.msl_eventlist h4, .msl_eventlist h4 a {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 20px;
+text-align: left;
+color: #345073;
+padding-top: 67px;
+}
+
+.msl_event_description{display:none;}
+
+.msl_ticket {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 15px;
+text-align: left;
+color: #345073;
+font-style: italic;
+
+}
+
+.msl_event_location {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 13px;
+font-style: italic;
+text-align: left;
+color: #345073;
+margin-top: 30px;
+}
+
+.slick-list draggable {
+padding: 0 58px;
+}
+
+.msl_event_name {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 20px;
+text-align: left;
+color: #345073;
+padding-top: 20px;
+}
+
+.msl_event_image img {
+max-width: 100%;
+min-width: 50px;
+display:block;
+height: auto;
+}
+
+.officers-section {
+    float: left;
+    height: 100%;
+    margin: 30px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-color: #fff;
+padding-bottom: 60px;
+}
+
+.officers-section img {
+max-width: 100%;
+min-width: 50px;
+display:block;
+height: auto;
+margin: 0 auto;
+
+
+}
+
+.officers-section img:hover {
+opacity: 0.5;
+
+}
+
+
+
+.officers-section h2 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 15px;
+color: #345073;
+text-align:center;
+}
+
+
+
+.officers-section p {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+text-align: center;
+font-size: 12px;
+color: #345073;
+
+}
+
+.officer-reps, .officer-reps a {
+
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 700;
+text-transform: uppercase;
+text-align: center;
+font-size: 25px;
+color: #345073;
+}
+
+.officer-reps a:hover {
+text-decoration: none;
+border-bottom: 2px solid #345073;
+
+}
+
+
+.activities-section {
+float: left;
+    height: 100%;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-image:url(http://brunelstudents.com/stylesheet/UrbanDesign/activities-background.jpg);
+background-size: cover;
+padding: 40px;
+
+}
+
+.activities-section h1 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 30px;
+padding-top: 30px;
+color: #fff;
+text-align: center;
+}
+
+.activities-section p {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 18px;
+padding-top: 30px;
+color: #fff;
+text-align: left;
+margin: 0 auto;
+width: 70%;
+line-height: 25px;
+
+}
+
+.activities-section p a {
+color: #fff;
+
+}
+
+.social-section {
+ float: left;
+    height: 100%;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+    width: 100%;
+background: #fff;
+padding: 20px;
+}
+
+.social-section h1 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 30px;
+padding-top: 30px;
+color: #345073;
+}
+
+
+.additional-section {
+    float: left;
+    height: 150px;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+    width: 100%;
+    background-color: #fad000;
+}
+
+.additional-section h1 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 30px;
+padding: 10px;
+color: #345073;
+text-align: center;
+
+}
+
+.sub-content {
+
+    height: 100%;
+    margin: 0px 0px 0px 0%;
+    clear: none;
+    width: 100%;
+    background-color: #fff;
+padding-top: 10%;
+
+}
+
+.sub-content h1 {
+    font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+padding-top: 80px;
+font-size: 4em;
+color: #345073;
+text-align: center;
+}
+
+.sub-content h2 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 30px;
+padding: 10px;
+color: #345073;
+text-align: left;
+}
+
+.msl-gl-group h3 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 20px;
+padding: 10px;
+color: #345073;
+text-align: left;
+}
+
+
+.news_image { display: block; }
+
+
+
+*/ NEWS VSLIDER */
+
+
+.ui-carousel {
+	height: 100px;
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width: 300px
+}
+
+.ui-carousel > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+}
+
+.ui-carousel > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 100px;
+}
+
+#carousel {
+			position: absolute;
+			top: 50px;
+		}
+
+		#carousel img {
+			border: 0;
+		}
+
+		#ui-carousel-next, #ui-carousel-prev {
+			width: 100px;
+			height: 50px;
+			background: url(images/arrow-bottom.png) #fff center center no-repeat;
+			display: block;
+			position: absolute;
+			left: 0
+			z-index: 100;
+		}
+
+		#ui-carousel-next {
+			top: 0;
+			background-image: url(images/arrow-top.png);
+		}
+
+		#ui-carousel-prev {
+			bottom: 0;
+		}
+
+		#ui-carousel-next > span, #ui-carousel-prev > span {
+			display: none;
+		}
+
+
+
+
+
+*/ END OF VSLIDER */
+
+
+
+
+
+
+
+
+
+
+.sub-content h6 {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 14px;
+padding: 10px;
+color: #345073;
+text-align: center;
+
+}
+
+.sub-content p {
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+font-size: 20px;
+padding: 10px;
+color: #345073;
+text-align: left;
+line-height: 25px;
+}
+
+.sub-content ul{
+      list-style-type: disc;
+
+
+
+
+}
+
+.sub-content li {
+color: #345073;
+font-size: 18px;
+display: block;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+padding: 10px;
+list-style-type: disc;
+display: list-item;
+
+
+}
+
+.sub-page-nav {
+margin: 0 auto;
+text-align: center;
+
+}
+
+.sub-page-nav ul {
+list-style-type: none;
+}
+
+.sub-page-nav li a {
+display: inline;
+}
+
+.sub-page-nav li, .sub-page-nav li a {
+padding: 10px;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+color: #345073;
+display: inline;
+font-size: 2vmin;
+
+}
+
+.msl_event_image {
+
+padding-top: 10px;
+
+}
+
+.msl_event_time {
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+color: #345073;
+}
+
+#event-sort {
+
+font-size: 12px;
+}
+
+
+
+.footer {
+    float: left;
+    height: 100%;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+.footer p {
+
+text-align: left;
+font-size: 11px;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+color: #345073;
+padding: 30px;
+}
+
+.footer p a {
+color: #345073;
+text-decoration: underline;
+}
+
+.footer p a:hover {
+    text-decoration: line-through;
+}
+
+.footer h3, .footer h3 a {
+text-align: left;
+font-size: 16px;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: bold;
+color: #345073;
+}
+
+
+.footer ul {
+margin:0;
+    padding: 0;
+
+}
+
+.footer li, .footer li a {
+text-align: left;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-size: 13px;
+padding-top: 10px;
+color: #345073;
+margin:0;
+
+
+}
+
+.partner-icons {
+padding-top: 100px;
+max-width: 100%;
+display:block;
+height: auto;
+}
+
+
+
+/* --------------  navigation ---------*/
+
+#mainnav{
+	position:absolute;
+	left:-300px;
+	background:#345073;
+	padding-top:80px;
+	z-index:1000;}
+
+#mainnav:target{
+	left:0;
+	right:0;
+}
+
+
+#mainnav ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+	text-align:center;
+	white-space:nowrap;
+	background:#345073;
+	position:relative;
+	z-index:500;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+
+}
+
+#mainnav ul li.representation ul{
+	background: #ffd100;
+color: #345073;
+}
+#mainnav ul li.support ul{
+	background:#ffd100;
+color: #345073;
+
+}
+#mainnav ul li.social ul{
+	background: #ffd100;
+color: #345073;
+
+}
+#mainnav ul li.shop ul{
+	background:#ffd100;
+color: #345073;
+
+}
+#mainnav ul li.about ul{
+	background: #ffd100;
+color: #345073;
+
+}
+
+#mainnav ul li.activities ul {
+background: #ffd100;
+color: #345073;
+
+}
+#mainnav > ul{
+	background: none;
+color: #345073;
+
+}
+
+#mainnav > ul:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+
+#mainnav > ul > li{
+	display:inline;
+}
+
+#mainnav > ul > li > a{
+	background:#345073;
+}
+
+#mainnav ul li.representation > a{
+	background:#345073;
+}
+
+#mainnav ul li.support > a{
+	background:#345073;
+}
+
+#mainnav ul li.social > a{
+	background:#345073;
+}
+
+#mainnav ul li.shop > a{
+	background:#345073;
+}
+
+#mainnav ul li.about > a{
+	background:#345073;
+}
+
+#mainnav a{
+	display:block;
+	padding:0 20px;
+	text-align:left;
+	color:#fff;
+	line-height:45px;
+
+
+}
+
+#mainnav a:hover, nav#mainnav a:focus{
+	text-decoration:underline;
+background: #ffd100;
+color: #345073;
+
+}
+
+#mainnav a, nav#mainnav a:focus,
+#mainnav a:visited, nav#mainnav a:focus{
+	text-decoration:none;
+color: #345073;
+
+}
+
+#mainnav > ul > li > a:hover,
+#mainnav > ul > li > a:focus{
+	text-decoration:none;
+background: #ffd100;
+color: #345073;
+
+}
+
+#mainnav ul ul{
+	position:absolute;
+	left:-5000px;
+	top:45px;
+}
+
+#mainnav ul li:hover > a.msl-itemhassubnav + div ul{
+	position:static;
+}
+
+
+@media (min-width:768px){
+	#mainnav{
+		 position:static;
+		 clear:both;
+		 margin-top:20px;
+		 padding-top:0;
+		 background: none;
+	}
+
+	 #mainnav:target{
+		 padding-top:0;
+	 }
+
+	 #mainnav > ul > li{
+		 float:left;
+		 width:16.66%;
+	 }
+
+	 #mainnav > ul > li > a{
+			 text-align:center;
+			 font-size:1.2em;
+	 }
+
+	 #mainnav > ul > li:not(:first-child) > a{
+			 margin-left:5px;
+	 }
+
+	 #mainnav ul li:hover > a.msl-itemhassubnav + div ul,
+	 #mainnav ul li a.msl-itemhassubnav:focus + div ul{
+		position:absolute;
+		width:100%;
+		left:0;
+	 }
+
+
+	 #mainnav ul ul a{
+		 float:left;
+		 }
+
+}
+
+
+/* ---------------- responsive menu toggle ---------------*/
+
+ .toggler{
+	display:inline-block;
+	position: absolute;
+	top:5px;
+	left:300px;
+float: right;
+	padding:10px;
+	/* border-radius:50%; */
+    z-index: 1;
+
+}
+
+.toggler:before {
+  content: "";
+color: #000;
+
+}
+
+.menu-icon {
+	position:relative;
+	display:inline-block;
+	width:22px;
+	text-indent:-999px;
+}
+
+.border-icon {
+	height:12px;
+	border-top:4px solid #fff;
+	border-bottom:4px solid #fff;
+	box-sizing:content-box;
+}
+
+.border-icon:before {
+	content:"";
+	position:absolute;
+	top:4px;
+	left:0;
+	width:100%;
+	border-top:4px solid #fff;
+}
+
+#mainnav #return{
+	position:absolute;
+	top:10px;
+	left:-1000px;
+	width:40px;
+	font-size:0;
+	height:40px;
+	text-align:center;
+}
+
+#mainnav:target #return{
+	display:block;
+	left:10px;
+
+}
+
+#mainnav #return:before{
+	content: "\00d7";
+	color:#fff;
+	font-size:50px;
+	display:block;
+	line-height:40px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+background: none;
+	border-radius:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+#mainnav:target #return:hover, nav#mainnav:target #return:focus{
+}
+
+@media (min-width:768px){
+			 #mainnav:target #return,.toggler{
+				 display:none;
+			 }
+}
+
+
+
+
+
+
+
+#homepagescroller .news_item_inner h5 a{display:none;}
+#homepagescroller .news_item{margin:0 5px;}
+
+#homepageadvert img{margin:0 auto;}
+#bannerwrapper{position:relative; padding-top: 2%;}
+
+#bannerwrapper #scrollctrl{position:absolute;top:40%;z-index:600;width:100%;}
+#bannerwrapper #scrollctrl a{transform: translate(0,-40%);
+-webkit-transform: translate(0, -40%);
+-ms-transform: translate(0, -40%);
+border-radius: 10px;
+}
+#scrollctrl a{color:#fff;font-size:80px;opacity:0.7;}
+#scrollctrl a:hover,#scrollctrl a:focus{text-decoration:none;opacity:0.9;}
+#scrollctrl .cycle-prev1{float:left;margin-left:15px; margin-top:30px;}
+#scrollctrl .cycle-next1{float:right;margin-right:15px; margin-top: 30px;}
+
+#homepagescroller .news_item img{border-radius:5px;
+
+
+
+@media (max-width:767px){
+   #scrollctrl a{font-size:40px;}
+}
+
+
+
+
+
+
+@media only screen and (max-device-width: 600px) {
+
+.officers-section p {
+display: none;
+}
+
+.footer h3 {
+text-align: center;
+padding-top: 15px;
+}
+
+.footer li, .footer li a {
+display: none;
+}
+
+.footer p {
+line-height: 25px;
+}
+
+.brand-svg {
+margin-left: 70px;
+}
+
+.social-icons {
+display: none;
+}
+
+#scrollctrl .cycle-prev1{float:left;margin-left:15px; margin-top:0}
+#scrollctrl .cycle-next1{float:right;margin-right:15px; margin-top: 0;}
+
+}
+
+/* -------------- header ------------------- */
+
+header{
+	background:#fff;
+	position:relative;
+        padding-top:15px;
+}
+
+.logo{
+        display:inline-block;
+        position:relative;
+        top:-5px;
+        margin-left:50px;
+}
+
+
+.mainlogo{
+  display:none;
+}
+
+#toggle-search, #toggle-social, #toggle-account,#toggle-basket{
+        width:30px;
+        height:30px;
+        margin-right:6px;
+        /* font-size:14px; */
+        text-align:center;
+        display:block;
+        float:right;
+}
+
+
+#toggle-search .fa,#toggle-social .fa, #toggle-account .fa, #toggle-basket .fa{
+        line-height:30px;
+        background:#ffd000;;
+        display:block;
+        border-radius:15px;
+}
+
+
+#toggle-search:hover,#toggle-social:hover,#toggle-search:focus,#toggle-social:focus,#toggle-account:focus, #toggle-basket:focus,#toggle-account:hover, #toggle-basket:hover{
+        text-decoration:none;
+}
+#toggle-search:hover .fa,#toggle-social:hover .fa,#toggle-search:focus .fa,#toggle-social:focus .fa,#toggle-account:focus .fa, #toggle-basket:focus .fa,#toggle-account:hover .fa, #toggle-basket:hover .fa{
+        color:#000;
+}
+
+.msl-loginbutton{
+		display:block;
+		float:right;
+		margin-left:0px;
+		border: 1px solid #d1d2d4;
+                background: none;
+		color:#000;
+		font-weight:bold;
+		padding:5px 10px 5px 10px;
+		border-radius:13px;
+		margin-bottom:15px;
+}
+
+.msl-loginbutton.msl-loggedin{
+	    display:none;
+color: #fff;
+}
+
+.msl-loginbutton:hover,.msl-loginbutton:focus{
+		color:#fff;
+		text-decoration:none;
+}
+
+
+#search{
+        display:block;
+        position:absolute;
+        top:100%;
+        left:0px;
+        right:0px;
+        z-index:800;
+        colour:#ffd000;
+        padding:10px 10px 10px 10px;
+        border-top:1px solid #d1d2d4;
+        display:none;
+}
+
+#search input.button {
+display: none;
+}
+
+#search .textbox {
+
+background: none;
+
+}
+
+div[id$='_pnlSearch']{
+	    position:relative;
+}
+
+div[id$='_pnlSearch']:after{
+        content:'\f002';
+        font-family: FontAwesome;
+        font-style: normal;
+        font-weight: normal;
+        text-decoration: inherit;
+        position:absolute;
+        display:block;
+        right:0px;
+        color:#fff;
+        top:50%;
+        transform:translate(0,-50%);
+        -webkit-transform: translate(0, -50%);
+        -ms-transform: translate(0, -50%);
+        z-index:2;
+}
+
+
+#search .mslwidget{
+	    border: 1px solid #ffd000;
+	    border-radius:15px;
+	    padding:5px 10px;
+}
+
+
+
+#search input{
+	     border:none; line-height:1.4285;font-size:14px; padding:0;
+}
+
+textarea:focus, input:focus{
+    outline: 0;
+}
+
+#search input.textbox{
+	    margin-right:40px;
+color:#ffd000;
+}
+#search input.button{
+	    color:#ffd000;background:transparent;padding-right:20px;position:absolute;right:0;z-index:10;
+}
+
+@media(min-width:992px){
+         #toggle-search{
+              display:none;
+         }
+
+         #search{
+			  position:static;
+			  padding:0 !important;
+			  display:block;
+			  float:right;
+			  border-top:none;
+         }
+}
+
+@media (min-width:768px){
+	.mainlogo{
+		display:block;
+	}
+
+#scrollctrl {
+display: none;
+}
+
+.sub-content h1 {
+font-size: 3em;
+}
+
+
+
+	.mainlogo .logo{
+		float:left;
+		position:relative;
+		top:-7px;
+		margin-right:10px;
+		margin-left:0;
+		padding:0;
+		display:block;
+	}
+
+	.logo{display:none;}
+
+	.msl-loginbutton{
+		display:block;
+		float:right;
+		background:#ffd000;
+
+		font-weight:bold;
+		padding:5px 10px 5px 10px;
+		border-radius:13px;
+	}
+
+	.msl-loginbutton.msl-loggedin{
+		display:block;
+	}
+
+	#toggle-social{
+		 display:none;
+	}
+
+	#toggle-basket{
+		 margin-left:6px;
+	}
+
+
+
+}
+
+/* social media buttons */
+
+#social{
+        margin:0;
+        left:0;
+        right:0;
+        position:absolute;
+        top:100%;
+        z-index:800;
+        padding: 10px 0 10px 10px;
+        border-top:1px solid #d1d2d4;
+        display:none;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+
+#social a{
+        display:block;
+        float:left;
+        width:36px;
+        height:36px;
+        margin-right:6px;
+        font-size:16px;
+        text-align:center;-webkit-transition: all 1s ease;
+
+}
+#social a:hover,#social a:focus{
+        text-decoration:none;
+position: relative;
+top: -3px;
+}
+
+#social .fa{
+        line-height:36px;
+        display:block;
+        border-radius:18px;
+}
+
+#social li{
+        list-style:none;
+        display:inline;
+}
+
+#social .fa-facebook{
+        background:#ffd000;
+}
+#social .fa-twitter{
+        background:#ffd000;
+}
+
+#social .fa-instagram{
+background:#ffd000;
+}
+
+#social .fa-youtube{
+        background:#ffd000;
+}
+
+#social .lenurb{
+        background:#ffd000;
+}
+
+
+#social .videobrunel{
+        background:#ffd000;
+}
+
+
+#social .radiobrunel{
+        background:#ffd000;
+}
+
+#social .radiobrunel span, #social .videobrunel span, #social .lenurb span{
+	    text-indent:-6000px;display:block;
+}
+
+#social .radiobrunel span{
+	    background:url(/stylesheet/rainbow/brunelradio.png) no-repeat 50% 50%;
+}
+
+#social .videobrunel span{
+	    background:url(/stylesheet/rainbow/brunelvideo.png) no-repeat 50% 50%;
+}
+
+#social .lenurb span{
+	    background:url(/stylesheet/rainbow/brunellenurb.png) no-repeat 50% 50%;
+}
+
+@media(max-width:768px){
+
+.1 {
+
+display: none;
+
+}
+
+
+ #social{
+        position:static;
+        display:inline-block;
+        padding:0;
+        border:none;
+   }
+
+   #social a{
+        display:block;
+        float:left;
+        width:40px;
+        height:40px;
+        margin-right:6px;
+        font-size:16px;
+        text-align:center;
+   }
+   #social .fa{
+        line-height:40px;
+        display:block;
+        border-radius:20px;
+   }
+
+.search-button {
+display: none;
+}
+
+
+}
